@@ -14,7 +14,7 @@
 <br>
 
 ### INSTALL BOT RESELLER 
-<pre><code>wget -q https://raw.githubusercontent.com/myridwan/Api2/ipuk/start && chmod +x start && ./start sellvpn
+<pre><code>wget -q https://raw.githubusercontent.com/myridwan/BotVPN/ipuk/start && chmod +x start && ./start sellvpn
 </code></pre>
 
 ### TESTED ON OS 
